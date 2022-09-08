@@ -4,4 +4,9 @@
     - The C file name will be saved in the variable __$CFILE__
     - The output should be saved in the file __c__
     ---
-    
+### 1-compiler
+- A script that compiles a C file but does not link.
+    - The C file name will be saved in the variable __$CFILE__ 
+    - The output file should be named the same as the C file, but with the extension .o instead of .c.
+---
+  
