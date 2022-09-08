@@ -1,2 +1,0 @@
-#!/bin/bash
-gcc -c $CSFILE -o .o
