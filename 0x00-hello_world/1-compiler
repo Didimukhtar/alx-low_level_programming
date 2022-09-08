@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 gcc -c $CFILE -o "$(echo $CFILE | cut -d '.' -f 1).o"
-=======
-gcc -c $CFILE -o "$CFILE | cut -d '.' -f 1).o"
->>>>>>> 16b34bc2fb980eae897bd99a537edc56314ed8fd
