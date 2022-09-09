@@ -8,19 +8,20 @@
  */
 int main(void)
 {
-char ch = 'a';
+		char ch = 'a';
 
 /* Holds the value of (a-z)*/
 
-while (ch <= 'z')
+		while (ch <= 'z')
 
-/* logical operator to get rid of 'e' and 'q'*/
+		{
+			/* logical operator to get rid of 'e' and 'q'*/
+			if (ch != 'e' && ch != 'q')
+				++ch;
 
-if (ch != 'e' && ch != 'q')
-++ch;
-putchar(ch);
-++ch;
-
-putchar('\n');
-return (0);
+			putchar(ch);
+			++ch;
+		}
+		putchar('\n');
+			return (0);
 }
