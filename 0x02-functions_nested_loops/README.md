@@ -14,5 +14,17 @@ FUNCTIONS, NESTED LOOPS
     - Returns 1 if c is lowercase
     - Returns 0 otherwise
 ---
-    
-    
+[4-isalpha.c]() : A function that checks if a character is an alphabet.
+---
+[5-sign.c]() : A function that prints out the sign of a number.
+    - + if the number is greater than 0
+    - 0 if the number is zero
+    - - if the number is less than 0
+---
+[6-abs.c]() : A function that computes the absolute value of an integer.
+---
+[7-print_last_digit.c]() : A function that prints & returns the last digit of a number   
+---
+[8-24_hours.c]() : A function that prints every minute of the day starting from 00:00 to 23:59.
+---
+     
