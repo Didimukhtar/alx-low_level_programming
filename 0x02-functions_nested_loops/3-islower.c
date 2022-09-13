@@ -1,4 +1,5 @@
 #include "main.h"
+#include <ctype.h>
 /**
  * _islower - test if a character is lowercase
  *
@@ -11,7 +12,7 @@ int _islower(int c)
 {
 		char _char = (int)c;
 
-		if (islower(_char))
+			if (islower(_char))
 				return (1);
 		return (0);
 }
