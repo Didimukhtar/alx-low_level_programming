@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/0x02-functions_nested_loops"
+                "${workspaceFolder}/0x03-debugging"
             ],
             "defines": [],
             "macFrameworkPath": [
