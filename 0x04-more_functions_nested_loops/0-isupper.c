@@ -9,3 +9,12 @@ int _isupper(int c)
 {
 	return (c >= 'A' && c <= 'Z');
 }
+
+/**
+ * main - Test the code
+ * Return: Always 0 (success)
+ */
+int main(void)
+{
+	return (0);
+}
