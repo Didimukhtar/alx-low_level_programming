@@ -2,7 +2,7 @@
 
 /**
  * puts2 - print every other character in a string
- * @s: the string to print
+ * @str: String to print
  * Return: void
  */
 void puts2(char *str)
