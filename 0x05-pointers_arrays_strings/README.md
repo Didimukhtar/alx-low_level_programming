@@ -1,0 +1,2 @@
+# THIS FOLDER CONTAINS PROJECTS CURATED BY ALX, AIMED AT GIVING A BETTER UNDERSTANDING OF POINTERS,ARRAYS AND STRINGS
+[0-reset_to_98.c]() : A function that takes a pointer to an int as parameter and updates the value it points to to 98. 
