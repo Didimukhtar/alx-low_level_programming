@@ -1,11 +1,10 @@
-#include <string.h>
 #include "main.h"
 
 /**
  * _strncat - concatenates two strings
  * @dest: a string pointer
  * @src: another string pointer
- * @int n - 
+ * @n: number of bytes of str to concatenate
  * Return: a string pointer
  */
 
