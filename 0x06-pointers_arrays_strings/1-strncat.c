@@ -2,13 +2,15 @@
 #include "main.h"
 
 /**
- * _strcat - concatenates two strings
- * @dest: Destination
- * @src: Source
- * Return: a pointer to dest
+ * _strncat - concatenates two strings
+ * @dest: a string pointer
+ * @src: another string pointer
+ * @int n - 
+ * Return: a string pointer
  */
 
-char *_strcat(char *dest, char *src)
+char *_strncat(char *dest, char *src, int n)
+
 {
 	int count = 0, count2 = 0;
 
@@ -17,7 +19,7 @@ char *_strcat(char *dest, char *src)
 		count++;
 	}
 
-	while (count2 >= 0)
+	while (count2 < n)
 	{
 		*(dest + count) = *(src + count2);
 		if (*(src + count2) == '\0')
