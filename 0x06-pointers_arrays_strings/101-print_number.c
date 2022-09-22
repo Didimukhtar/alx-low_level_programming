@@ -6,6 +6,7 @@
  * @n: integer to print
  * Return: void
  */
+
 void print_number(int n)
 {
 	if (n < 0)
