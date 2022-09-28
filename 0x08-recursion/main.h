@@ -17,6 +17,8 @@ int _sqrt_recursion_wrapper(int n, int min, int max);
 
 int is_prime_number(int n);
 
+int is_prime(unsigned int n, unsigned int c);
 
+int wildcmp(char *s1, char *s2);
 
 #endif
