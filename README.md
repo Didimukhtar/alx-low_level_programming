@@ -17,4 +17,22 @@
 ---
 [0x07-pointers_arrays_strings](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings) :- Pointers, arrays, strings.
 ---
-[0x08-recursion](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x08-recursion)
+[0x08-recursion](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x08-recursion) :- Recursion
+---
+[0x09-static_libraries](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x09-static_libraries) :-  Static libraries
+---
+[0x0A-argc_argv](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x0A-argc_argv) :- Arguments
+---
+[0x0B-malloc_free](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x0B-malloc_free) :- Memory allocation
+---
+[0x0C-more_malloc_free](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x0C-more_malloc_free) :- Memory allocation, free
+---
+[0x0D-preprocessor](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x0D-preprocessor) :- Preprocessor
+---
+[0x0E-structures_typedef](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x0E-structures_typedef) :- Structures, type definition.
+---
+[0x0F-function_pointers](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x0F-function_pointers) :- Function, pointers.
+---
+[0x10-variadic_functions](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x10-variadic_functions) :- Variadic functions.
+---
+[0x12-singly_linked_lists](https://github.com/didimukhtar/alx-low_level_programming/tree/main/0x12-singly_linked_lists) :- Linked lists
