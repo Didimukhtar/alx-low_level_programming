@@ -1,0 +1,1 @@
+# Singly linked lists Project done during Full Stack Software Engineering studies at ALX. Aimed at learning about linked lists in *C language.
